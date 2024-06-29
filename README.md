@@ -1,13 +1,19 @@
-# 3d-portfolio
-Personal Portfolio website designed using ThreeJS
+# Personal Portfolio Website in React
+![Screenshot 2024-06-29 205710](https://github.com/aryanvyas16/Portfolio-Website/assets/113963972/c0441d04-33d0-4c9a-bdec-5c75f809c083)
 
-1. `npm install` to install dependencies.  
-2. `npm run dev` to start the development server.
+Built using:
 
+- Front-end library: React
+- CSS framework: React-bootstrap
+- CSS animations library: Animate.css
 
+In the /personal-portfolio, you can run:
 
+### `npm start`
 
-![1](https://github.com/aryanvyas16/Portfolio-Website/assets/113963972/99af8cc4-743a-45b4-a188-9e22bf99ebef)
-![3](https://github.com/aryanvyas16/Portfolio-Website/assets/113963972/613ebd46-1f40-4aa3-82bb-5fbf0c8a8f58)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![Capture](https://github.com/aryanvyas16/Portfolio-Website/assets/113963972/75b21081-f284-4104-8cf9-ec36eb9bd91d)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
