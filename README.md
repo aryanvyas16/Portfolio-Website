@@ -1,5 +1,4 @@
 # Personal Portfolio Website in React
-![Screenshot 2024-06-29 205710](https://github.com/aryanvyas16/Portfolio-Website/assets/113963972/c0441d04-33d0-4c9a-bdec-5c75f809c083)
 
 Built using:
 
